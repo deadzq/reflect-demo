@@ -41,6 +41,7 @@ public class SomeMethodClassE {
                     String str = (String)m.invoke("My name is someOne .", null);
                     System.out.println(str);
                 }
+
             }
 
             //获取该类的所有方法
